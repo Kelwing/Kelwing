@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Go, Discord bots, Prison education**
+- 💬 Ask me about **Go, Discord bots, cloud databases**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
