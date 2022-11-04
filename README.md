@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelwing</h1>
 <h3 align="center">I'm a backend developer and systems architect from the US.</h3>
 
-- 🔭 I’m currently working on [Postcord](https://github.com/Postcord)
+- 🔭 I’m currently working on [wumpgo](https://github.com/Kelwing/wumpgo)
 
 - 🌱 I’m currently learning **Rust**
 
