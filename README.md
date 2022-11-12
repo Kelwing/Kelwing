@@ -1,18 +1,25 @@
-<h1 align="center">Hi 👋, I'm Kelwing</h1>
-<h3 align="center">I'm a backend developer and systems architect from the US.</h3>
+Hi 👋, I'm Kelwing
+==================
 
-- 🔭 I’m currently working on [wumpgo](https://github.com/Kelwing/wumpgo)
+### I'm a backend developer and systems architect from the US.
 
-- 🌱 I’m currently learning **Rust**
+[![kelwing](https://github-profile-trophy.vercel.app/?username=kelwing)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 💬 Ask me about **Go, Discord bots, cloud databases**
+\- 🔭 I’m currently working on \[wumpgo\](https://github.com/Kelwing/wumpgo) - 🌱 I’m currently learning \*\*Rust\*\* - 💬 Ask me about \*\*Go, Discord bots, cloud databases\*\*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/e5vqDDT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="e5vqDDT" height="30" width="40" /></a>
-</p>
+### Connect with me:
 
-<h3 align="left">Languages and Tools:</h3>
-![My Skills](https://skillicons.dev/icons?i=actix,ansible,aws,azure,bash,c,cpp,cloudflare,cmake,discord,bots,docker,dynamodb,fastapi,flask,gcp,git,github,githubactions,go,grafana,kubernetes,linux,mastodon,mysql,nginx,postgres,prometheus,py,regex,rust,sqlite,vim,vscode)
+[![N755bYBh6v](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/N755bYBh6v)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelwing&show_icons=true&locale=en&layout=compact" alt="kelwing" /></p>
+### Languages and Tools:
+
+ [![clojure](https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg)](https://clojure.org/)[![elixir](https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg)](https://elixir-lang.org)
+
+### Support:
+
+[![Kelwing](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/Kelwing)
+
+  
+  
+
+ ![kelwing](https://github-readme-stats.vercel.app/api?username=kelwing&show_icons=true&locale=en)
