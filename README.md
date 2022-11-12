@@ -13,13 +13,10 @@ Hi 👋, I'm Kelwing
 
 ### Languages and Tools:
 
- [![clojure](https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg)](https://clojure.org/)[![elixir](https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg)](https://elixir-lang.org)
+![My Skills](https://skillicons.dev/icons?i=actix,ansible,aws,azure,bash,c,cpp,cloudflare,cmake,discord,bots,docker,dynamodb,fastapi,flask,gcp,git,github,githubactions,go,grafana,kubernetes,linux,mastodon,mysql,nginx,postgres,prometheus,py,regex,rust,sqlite,vim,vscode)
 
 ### Support:
 
 [![Kelwing](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/Kelwing)
-
   
-  
-
- ![kelwing](https://github-readme-stats.vercel.app/api?username=kelwing&show_icons=true&locale=en)
+![kelwing](https://github-readme-stats.vercel.app/api?username=kelwing&show_icons=true&locale=en)
