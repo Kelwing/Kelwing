@@ -9,11 +9,6 @@
 
 - 💬 Ask me about **Go, Discord bots, cloud databases**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/N755bYBh6v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="N755bYBh6v" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p><img src="https://skillicons.dev/icons?i=actix,ansible,aws,azure,bash,c,cpp,cloudflare,cmake,discord,bots,docker,dynamodb,fastapi,flask,gcp,git,github,githubactions,go,grafana,kubernetes,linux,mastodon,mysql,nginx,postgres,prometheus,py,regex,rust,sqlite,vim,vscode" alt="My Skills"></p>
 
